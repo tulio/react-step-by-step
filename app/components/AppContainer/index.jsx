@@ -9,6 +9,7 @@ export default class AppContainer extends React.Component {
       <div className="AppContainer">
         <MainHeader title="Welcome" />
         <p>
+          oi
           Vestibulum sit amet ipsum sit amet felis aliquet blandit tristique
           porttitor arcu. Quisque varius, nisi sed feugiat aliquam, lorem magna
           consectetur magna, a auctor arcu mi sit amet neque. In elementum rutrum
